@@ -22,7 +22,8 @@ STEP-1
   
   -: create train.record and test.record
   
-  -: I set num_steps: 4310 in "faster_rcnn_resnet50_pets.config" you can change it(initially it is 200000) 
+  -: I set num_steps: 4310 in "faster_rcnn_resnet50_pets.config" you can change it(initially it is 200000). Try to iterate  
+  more for proper accuracy
   
   -: path to get this file 
         "/models-master/research/object_detection/samples/configs/faster_rcnn_resnet50_pets.config"
