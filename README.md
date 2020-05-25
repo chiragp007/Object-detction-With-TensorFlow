@@ -2,7 +2,8 @@
 
 Wheat-Head-Detction
 
-Step-1
+STEP-1
+
   -: download-> https://github.com/tensorflow/models
   
   -: filter you image data 
@@ -29,7 +30,8 @@ Step-1
   
   -: Export Graph with "export_inference_graph.py",  run this file from your Terminal, Don't forget to put path in the file
 
-Step-2
+STEP-2
+
    -:Use saved .pb file
    
    -:Load it.
