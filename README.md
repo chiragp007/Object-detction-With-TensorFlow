@@ -45,4 +45,6 @@ STEP-2
    
    -:Load it.
    
-   -:and create rectangle wherever it is detected using OpenCv
+   -:create rectangle wherever it is detected using OpenCv
+   
+   -:create CSV for test images (I havn't done this, you just need to dump it into dataframe and then .CSV)
